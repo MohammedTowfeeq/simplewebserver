@@ -58,7 +58,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/a553e398-18b8-4100-ac84-52f0184fa80c)
+![image](https://github.com/user-attachments/assets/e598eb41-23fd-4132-b5b4-14f28ae337d2)
+
 
 
 
